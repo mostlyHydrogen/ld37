@@ -1,0 +1,10 @@
+{
+  "name": "ld37",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.2.1",
+  },
+  "author": "",
+  "license": "ISC"
+}
